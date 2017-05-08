@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/siddharthasingh/hike/ex/android/voice2txt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/siddharthasingh/hike/ex/android/voice2txt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12b93a77d10c0c214203dc4eb9c62480aef2cfa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siddharthasingh/hike/ex/android/voice2txt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09308a710d8d695b582d8924713da60875d5b949">
+        <dex dex="/Users/siddharthasingh/hike/ex/android/voice2txt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dd5377e916150dd7a54a4b22b06bca23d1d9ca8/classes.dex" />
+    </item>
+
+</items>
